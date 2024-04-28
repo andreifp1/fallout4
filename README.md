@@ -1,5 +1,7 @@
 Fallout 4 item scrap+store
 
+basic code for automation of the existing bug on Fallout 4, where its possible to scrap an item and store it in the Workshop storage at the same time.
+
 1- Run the script
 
 2- Go to the Game
