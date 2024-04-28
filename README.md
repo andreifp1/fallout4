@@ -1,9 +1,13 @@
 Fallout 4 item scrap+store
 
 1- Run the script
+
 2- Go to the Game
+
 3- Hold "V" to open the Workshop menu
+
 4- Aim at the item
+
 5- Press F10
 
 The item will be Scrapped and stored back in the Workshop storage. You will get the obtaied materials from scrapping, and the item will be stored in the workshop.
