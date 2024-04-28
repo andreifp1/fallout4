@@ -9,7 +9,7 @@ def press_and_release_key(key, duration):
 
 
 def main():
-    print("Pronto")
+    print("Ok")
     while True:
         keyboard.wait('F10')
         time.sleep(0.1)
