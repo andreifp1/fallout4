@@ -12,7 +12,7 @@ basic code for automation of the existing bug on Fallout 4, where its possible t
 
 5- Press F10
 
-The item will be Scrapped and stored back in the Workshop storage. You will get the obtaied materials from scrapping, and the item will be stored in the workshop.
+The item will be SCRAPPED and STORED back in the Workshop storage. You will get the obtaied materials from scrapping, and the item will be stored in the workshop.
 
 -------------------------------------------------------------------
 
