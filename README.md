@@ -18,9 +18,13 @@ Fallout 4 item armazenar+sucatear
 script básico para automatizar o bug existente no Fallout 4, onde é possível sucatear um item e guardá-lo na Oficina ao mesmo tempo.
 
 1- Rode o script
+
 2- Vá ao jogo
+
 3- Pressione e segure "V" para abrir a visão de Oficina
+
 4- Mire no item
+
 5- Pressione F10
 
 O item será SUCATEADO e ARMAZENADO de volta na Oficina. Você terá os materiais extraídos, e o item é devolvido à Oficina.
