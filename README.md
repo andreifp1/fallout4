@@ -21,6 +21,7 @@ Or just download the executable "1item.exe" which is ready to go.
 
 
 Fallout 4 item armazenar+sucatear
+
 script básico para automatizar o bug existente no Fallout 4, onde é possível sucatear um item e guardá-lo na Oficina ao mesmo tempo.
 
 1- Rode o script
