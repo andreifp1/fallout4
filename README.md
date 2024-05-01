@@ -15,7 +15,10 @@ basic code for automation of the existing bug on Fallout 4, where its possible t
 The item will be SCRAPPED and STORED back in the Workshop storage. You will get the obtaied materials from scrapping, and the item will be stored in the workshop.
 You can run "1item.py" from a python emulator such as PyCharm on Windows, or compile the code into a .exe to be able to run. 
 Or just download the executable "1item.exe" which is ready to go.
+
+
 -------------------------------------------------------------------
+
 
 Fallout 4 item armazenar+sucatear
 script básico para automatizar o bug existente no Fallout 4, onde é possível sucatear um item e guardá-lo na Oficina ao mesmo tempo.
